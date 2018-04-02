@@ -1,1 +1,8 @@
+# Site settings
+title: McTavish Solutions LLC
+description: McTavish Solutions LLC, a small independent software development company.
+email: support@mctavishsolutions.com
+url: http://www.mctavishsolutions.com
+
+# Build settings
 theme: jekyll-theme-slate
